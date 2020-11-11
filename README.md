@@ -4,4 +4,4 @@
 
 
 
-[demo](LOWINC.GitHub.io])
+[demo](http://lowinc.github.io/)
