@@ -2,15 +2,15 @@
   "files": {
     "main.js": "/mobile/static/js/main.9fed586c.chunk.js",
     "runtime-main.js": "/mobile/static/js/runtime-main.1431d30f.js",
-    "static/js/2.1e9e8658.chunk.js": "/mobile/static/js/2.1e9e8658.chunk.js",
+    "static/js/2.455ac0b0.chunk.js": "/mobile/static/js/2.455ac0b0.chunk.js",
     "index.html": "/mobile/index.html",
-    "precache-manifest.dd59cfe279ae5a9e5cc9ced52a0835f1.js": "/mobile/precache-manifest.dd59cfe279ae5a9e5cc9ced52a0835f1.js",
+    "precache-manifest.dbda2a1994fcd4b65258bec4d5c79498.js": "/mobile/precache-manifest.dbda2a1994fcd4b65258bec4d5c79498.js",
     "service-worker.js": "/mobile/service-worker.js",
-    "static/js/2.1e9e8658.chunk.js.LICENSE.txt": "/mobile/static/js/2.1e9e8658.chunk.js.LICENSE.txt"
+    "static/js/2.455ac0b0.chunk.js.LICENSE.txt": "/mobile/static/js/2.455ac0b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1431d30f.js",
-    "static/js/2.1e9e8658.chunk.js",
+    "static/js/2.455ac0b0.chunk.js",
     "static/js/main.9fed586c.chunk.js"
   ]
 }
