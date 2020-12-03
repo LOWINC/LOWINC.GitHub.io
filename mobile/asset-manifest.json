@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/mobile/static/js/main.71683f45.chunk.js",
+    "main.js": "/mobile/static/js/main.0dca78a4.chunk.js",
     "runtime-main.js": "/mobile/static/js/runtime-main.1431d30f.js",
     "static/css/2.847e5281.chunk.css": "/mobile/static/css/2.847e5281.chunk.css",
-    "static/js/2.11e0d273.chunk.js": "/mobile/static/js/2.11e0d273.chunk.js",
+    "static/js/2.2642f4da.chunk.js": "/mobile/static/js/2.2642f4da.chunk.js",
     "index.html": "/mobile/index.html",
-    "precache-manifest.97adb2e1886125ac9a69bec3695569eb.js": "/mobile/precache-manifest.97adb2e1886125ac9a69bec3695569eb.js",
+    "precache-manifest.543318524c11ae9f23b21801c235e420.js": "/mobile/precache-manifest.543318524c11ae9f23b21801c235e420.js",
     "service-worker.js": "/mobile/service-worker.js",
-    "static/js/2.11e0d273.chunk.js.LICENSE.txt": "/mobile/static/js/2.11e0d273.chunk.js.LICENSE.txt"
+    "static/js/2.2642f4da.chunk.js.LICENSE.txt": "/mobile/static/js/2.2642f4da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1431d30f.js",
     "static/css/2.847e5281.chunk.css",
-    "static/js/2.11e0d273.chunk.js",
-    "static/js/main.71683f45.chunk.js"
+    "static/js/2.2642f4da.chunk.js",
+    "static/js/main.0dca78a4.chunk.js"
   ]
 }
